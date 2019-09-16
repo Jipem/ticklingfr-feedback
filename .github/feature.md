@@ -1,11 +1,13 @@
-**Votre demande de fonctionnalité est-elle liée à un problème ?** 
-Décrivez s'il vous plait. Une description claire et concise du problème. Ex. Je suis toujours frustré quand [...]
+## Fonctionnalité
 
-**Décrivez la solution que vous souhaitez** 
-Une description claire et concise de ce que vous voulez réaliser.
+**Rubrique**
+Si elle existe déjà, à quelle rubrique votre suggestion est-elle liée ? Sinon, quelle rubrique proposez-vous ?
 
-**Décrivez les alternatives que vous avez envisagées** 
-Description succincte et concise de toutes les solutions ou fonctionnalités alternatives que vous avez envisagées.
+**Votre suggestion est-elle liée à un problème ?** 
+Décrivez avec une description claire et concise le problème. Ex. Je suis toujours frustré quand [...]
 
-**Contexte supplémentaire** 
-Ajoutez ici tout autre contexte concernant la demande de fonctionnalité.
+**Votre suggestion** 
+Description succincte et concise de la suggestion que vous proposez.
+
+**Informations complémentaires**
+Ajoutez toutes autres informations que vous pensez utile.
