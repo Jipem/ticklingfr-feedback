@@ -25,8 +25,8 @@ Une description claire et concise de ce à quoi vous vous attendiez.
 **Votre matériel**
   - Appareil: [par exemple ordinateur de bureau, ordinateur portable, tablette, OnePlus 7, iPhone 6, etc]
   - OS: [par exemple Windows, macOS, Linux, iOS, Android, etc]
-  - Navigateur [par exemple Firefox, Chrome, Safari, Edge, etc]
-  - Version [par exemple 22, 60, etc]
+  - Navigateur: [par exemple Firefox, Chrome, Safari, Edge, etc]
+  - Version: [par exemple 22, 60, etc]
 
 **Informations complémentaires**
 Ajoutez toutes autres informations que vous pensez utile pour résoudre ce problème.
