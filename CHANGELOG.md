@@ -8,7 +8,7 @@
 ### Added
 
 ### Changed
-- Création de la v3.1 [v3.1.0](https://github.com/Jipem/ticklingfrv3/releases/tag/v10.2.1)
+- Création de la v3.1 ([v3.1.0](https://github.com/Jipem/ticklingfrv3/releases/tag/v10.2.1))
 
 ### Fixed
 
