@@ -8,6 +8,7 @@
 ### Added
 
 ### Changed
+- Création de la v3.1
 
 ### Fixed
 
