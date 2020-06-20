@@ -8,7 +8,7 @@
 
 ## v3.0.2 (2020-06-18)
 - Correction de bugs divers 
-- [ADD] MP : Suppression multiple possible 
+- [ADD] MP : [Suppression multiple possible](https://www.tickling.fr/user/mp) 
 
 ## v3.0.1 (2020-06-17)
 - Login/Register possible 
