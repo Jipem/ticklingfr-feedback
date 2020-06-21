@@ -1,5 +1,8 @@
 # Release Notes
 
+## v3.0.4 (2020-06-21)
+- Correction de bugs divers 
+
 ## v3.0.3 (2020-06-20)
 - Correction de bugs divers 
 - [ADD] MP : [Tout sélectionner](https://www.tickling.fr/user/mp)
