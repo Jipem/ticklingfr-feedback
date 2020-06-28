@@ -1,5 +1,18 @@
 # Release Notes
 
+## v3.0.8 (2020-06-28)
+- Correction de bugs divers 
+
+## v3.0.7 (2020-06-27)
+- Correction de bugs divers 
+- [MODIFY] Choix filtre MP / commentaires du profil au moment de l'inscription et rappel à la connexion pour anciens inscrits
+
+## v3.0.6 (2020-06-24)
+- Correction de bugs divers 
+
+## v3.0.5 (2020-06-22)
+- Correction de bugs divers 
+
 ## v3.0.4 (2020-06-21)
 - Correction de bugs divers 
 
