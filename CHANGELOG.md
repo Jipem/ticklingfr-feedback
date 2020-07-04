@@ -20,7 +20,7 @@
 
 ## v3.0.7 (2020-06-27)
 - Correction de bugs divers 
-- [MODIFY] Choix filtre MP / commentaires du profil au moment de l'inscription et rappel à la connexion pour anciens inscrits
+- [MODIFY] Inscription : [Choix filtre MP / commentaires du profil au moment de l'inscription et rappel à la connexion pour anciens inscrits](https://www.tickling.fr/register)
 
 ## v3.0.6 (2020-06-24)
 - Correction de bugs divers 
