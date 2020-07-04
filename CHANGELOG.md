@@ -5,6 +5,7 @@
 - [ADD] Fonctionnalités admin
 - [ADD] Accueil : ["Bienvenue à" et "Derniers commentaires"](https://www.tickling.fr)
 - [ADD] Notifications : [Liste des inscriptions](https://www.tickling.fr/user/settings/notifications)
+- [ADD] Forum : [Indicateur topic/message non lu dès page d'accueil](https://www.tickling.fr/forum)
 
 ## v3.0.10 (2020-06-30)
 - Correction de bugs divers 
