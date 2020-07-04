@@ -3,6 +3,7 @@
 ## v3.0.11 (2020-07-04)
 - Correction de bugs divers 
 - [ADD] Fonctionnalités admin
+- [ADD] [Accueil](https://www.tickling.fr) : Ajout "Bienvenue à" et "Derniers commentaires"
 
 ## v3.0.10 (2020-06-30)
 - Correction de bugs divers 
