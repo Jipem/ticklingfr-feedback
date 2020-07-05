@@ -1,5 +1,9 @@
 # Release Notes
 
+## v3.0.12 (2020-07-05)
+- Correction de bugs divers
+- Optimisations diverses
+
 ## v3.0.11 (2020-07-04)
 - Correction de bugs divers 
 - [ADD] Fonctionnalités admin
