@@ -3,7 +3,7 @@
 ## v3.0.14 (2020-07-11)
 - Correction de bugs divers
 - Optimisations diverses
-- Import Jeux et Histoires Adultes de la v2
+- [IMPORT] [Jeux](https://www.tickling.fr/jeux) et [Histoires](https://www.tickling.fr/histoires) Adultes de la v2
 
 ## v3.0.13 (2020-07-08)
 - Correction de bugs divers
