@@ -1,5 +1,13 @@
 # Release Notes
 
+## v3.0.13 (2020-07-11)
+- Correction de bugs divers
+- Optimisations diverses
+- Import Jeux et Histoires Adultes de la v2
+
+## v3.0.13 (2020-07-08)
+- Correction de bugs divers
+
 ## v3.0.12 (2020-07-05)
 - Correction de bugs divers
 - Optimisations diverses
