@@ -1,5 +1,11 @@
 # Release Notes
 
+## v3.0.16 (2020-07-17)
+- Correction de bugs divers
+
+## v3.0.15 (2020-07-13)
+- Ajout du mot "Notifications" sur le bouton de chaque rubrique
+
 ## v3.0.14 (2020-07-11)
 - Correction de bugs divers
 - Optimisations diverses
