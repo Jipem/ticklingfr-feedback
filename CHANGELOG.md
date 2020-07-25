@@ -1,10 +1,21 @@
 # Release Notes
 
+## v3.0.19 (2020-07-25)
+- Correction de bugs divers
+- [ADD] Feed : [Création du Feed Général et filtrage Amis](https://www.tickling.fr/user/feed)
+
+## v3.0.18 (2020-07-23)
+- Correction de bugs divers
+- [MODIFY] Forum : [Séparation des rubriques actives/archives](https://www.tickling.fr/forum)
+
+## v3.0.17 (2020-07-19)
+- Optimisations diverses
+
 ## v3.0.16 (2020-07-17)
 - Correction de bugs divers
 
 ## v3.0.15 (2020-07-13)
-- Ajout du mot "Notifications" sur le bouton de chaque rubrique
+- [MODIFY] Ajout du mot "Notifications" sur le bouton de chaque rubrique
 
 ## v3.0.14 (2020-07-11)
 - Correction de bugs divers
