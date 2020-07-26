@@ -1,5 +1,12 @@
 # Release Notes
 
+## v3.0.20 (2020-07-26)
+- Correction de bugs divers
+- Optimisations diverses
+- [ADD] Fil d'activité : [Création de la page](https://www.tickling.fr/user/activity)
+- [MODIFY] Accueil : [Refonte de la page d'accueil](https://www.tickling.fr)
+- [MODIFY] Lien sur comments/likes quand nécessite page spécifique
+
 ## v3.0.19 (2020-07-25)
 - Correction de bugs divers
 - [ADD] Feed : [Création du Feed Général et filtrage Amis](https://www.tickling.fr/user/feed)
