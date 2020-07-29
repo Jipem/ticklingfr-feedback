@@ -1,5 +1,14 @@
 # Release Notes
 
+## v3.0.22 (2020-07-29)
+- Optimisations diverses
+- [ADD] MP : [Pagination](https://www.tickling.fr/user/mp)
+
+## v3.0.21 (2020-07-28)
+- Optimisations diverses
+- [ADD] Accueil : [Ajout du fil d'actualité](https://www.tickling.fr)
+- [ADD] Fil d'activité : [Ajout des likes/dislikes](https://www.tickling.fr/user/activity)
+
 ## v3.0.20 (2020-07-26)
 - Correction de bugs divers
 - Optimisations diverses
