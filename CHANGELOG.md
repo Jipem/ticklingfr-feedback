@@ -1,5 +1,9 @@
 # Release Notes
 
+## v3.0.23 (2020-08-01)
+- Optimisations diverses
+- [ADD] Liste de qui Like sur chaque item
+
 ## v3.0.22 (2020-07-29)
 - Optimisations diverses
 - [ADD] MP : [Pagination](https://www.tickling.fr/user/mp)
