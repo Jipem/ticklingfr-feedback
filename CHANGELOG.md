@@ -3,6 +3,8 @@
 ## v3.0.23 (2020-08-01)
 - Optimisations diverses
 - [ADD] Liste de qui Like sur chaque item
+- [ADD] L'auteur d'un item reçoit une notification à chaque commentaire/like
+- [MODIFY] MP : [Quand réponse, ancien message en bas de page](https://www.tickling.fr/user/mp)
 
 ## v3.0.22 (2020-07-29)
 - Optimisations diverses
