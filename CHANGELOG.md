@@ -1,5 +1,10 @@
 # Release Notes
 
+## v3.0.24 (2020-08-02)
+- Correction de bugs divers
+- Optimisations diverses
+- [MODIFY] Forum : [Bouton répondre en bas de page](https://www.tickling.fr/forum)
+
 ## v3.0.23 (2020-08-01)
 - Optimisations diverses
 - [ADD] Liste de qui Like sur chaque item
