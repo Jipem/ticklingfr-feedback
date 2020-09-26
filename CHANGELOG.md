@@ -1,5 +1,24 @@
 # Release Notes
  
+## v3.0.26 (2020-09-26)
+- Optimisations diverses
+
+## v3.0.26 (2020-09-22)
+- Optimisations diverses
+
+## v3.0.28 (2020-08-14)
+- Correction de bugs divers
+
+## v3.0.27 (2020-08-09)
+- Correction de bugs divers
+ 
+## v3.0.26 (2020-08-08)
+- Correction de bugs divers
+- Optimisations diverses
+
+## v3.0.25 (2020-08-03)
+- Correction de bugs divers
+
 ## v3.0.24 (2020-08-02)
 - Correction de bugs divers
 - Optimisations diverses
