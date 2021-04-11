@@ -1,5 +1,8 @@
 # Release Notes
  
+## (2021-04-11)
+- Réorganisation du forum
+
 ## v3.0.26 (2020-09-26)
 - Optimisations diverses
 
