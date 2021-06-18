@@ -3,7 +3,7 @@
 ## v3.0.80 (2021-06-18)
 - Optimisations diverses
 - Optimisation publicités
-- [ADD] News : [Possibilité de notifer membres ou non](https://www.tickling.fr/news)
+- [ADD] News : [Possibilité de notifier membres ou non](https://www.tickling.fr/news)
 ## v3.0.79 (2021-06-06)
 - Optimisations diverses
 - Optimisation publicités
