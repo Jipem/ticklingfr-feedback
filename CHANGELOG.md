@@ -1,5 +1,7 @@
 # Release Notes
  
+## v3.0.81 (2021-06-20)
+- Correction de bugs divers
 ## v3.0.80 (2021-06-18)
 - Optimisations diverses
 - Optimisation publicités
