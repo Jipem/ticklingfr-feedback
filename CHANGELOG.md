@@ -1,5 +1,17 @@
 # Release Notes
  
+## v3.0.84 (2021-06-27)
+- [MODIFY] Rencontres : [Inclusion de champs BDSM (annonce/recherche)](https://www.tickling.fr/rencontres)
+- [MODIFY] Rencontres : [Possibilité de rechercher par mot dans l'annonce](https://www.tickling.fr/rencontres)
+- [ADD] Déplacements : [Fonctionnalité de Rencontres Déplacements](https://www.tickling.fr/user/rencontres/deplacements/liste)
+- Correction de bugs divers
+## v3.0.83 (2021-06-26)
+- [MODIFY] Fil d'activité : [Affichage des pseudos si inférieur à une semaine](https://www.tickling.fr/user/activity)
+- [MODIFY] Fil d'activité : [Inclusion du tchat](https://www.tickling.fr/user/activity)
+- Optimisations diverses
+## v3.0.82 (2021-06-25)
+- [MODIFY] Fil d'activité : [Inclusion des certifications de membres](https://www.tickling.fr/user/activity)
+- [MODIFY] MP : [Indicateur lu pour Premium](https://www.tickling.fr/user/mp)
 ## v3.0.81 (2021-06-20)
 - Correction de bugs divers
 ## v3.0.80 (2021-06-18)
