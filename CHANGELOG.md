@@ -1,5 +1,11 @@
 # Release Notes
  
+## v3.0.87 (2021-07-03)
+- Optimisation diverses
+## v3.0.86 (2021-07-02)
+- [MODIFY] Histoires : [Tri par épisodes](https://www.tickling.fr/histoires)
+## v3.0.85 (2021-07-01)
+- Correction de bugs divers
 ## v3.0.84 (2021-06-27)
 - [MODIFY] Rencontres : [Inclusion de champs BDSM (annonce/recherche)](https://www.tickling.fr/rencontres)
 - [MODIFY] Rencontres : [Possibilité de rechercher par mot dans l'annonce](https://www.tickling.fr/rencontres)
