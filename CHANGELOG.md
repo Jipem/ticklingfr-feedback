@@ -3,6 +3,7 @@
 ## v3.0.87 (2021-07-03)
 - [MODIFY] Histoires : [Liste des épisodes dans le menu d'une histoire](https://www.tickling.fr/histoires)
 - Optimisation diverses
+- Correction de bugs divers
 ## v3.0.86 (2021-07-02)
 - [MODIFY] Histoires : [Tri par épisodes](https://www.tickling.fr/histoires)
 ## v3.0.85 (2021-07-01)
