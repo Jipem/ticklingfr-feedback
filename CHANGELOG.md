@@ -1,5 +1,14 @@
 # Release Notes
  
+## v3.0.89 (2021-07-10)
+- [MODIFY] User Menu : [Ajout de liens vers ma rencontres et mes déplacements](https://www.tickling.fr/)
+- [MODIFY] Rencontres : [Lien vers mon annonce](https://www.tickling.fr/user/rencontres/edit)
+- [MODIFY] Rencontres : [Modifier mon annonce = l'activer automatiquement](https://www.tickling.fr/user/rencontres/edit)
+- [ADD] Rencontres : [Premium - Possibilité de trier par défaut par distance](https://www.tickling.fr/user/settings/premium)
+- Optimisation diverses
+## v3.0.88 (2021-07-04)
+- [MODIFY] Profil : [Ajout du sexe "Couple"](https://www.tickling.fr/user/profil/edit)
+- [MODIFY] Rencontres : [Déplacements visibles uniquement pour membres connectés](https://www.tickling.fr/rencontres)
 ## v3.0.87 (2021-07-03)
 - [MODIFY] Histoires : [Liste des épisodes dans le menu d'une histoire](https://www.tickling.fr/histoires)
 - Optimisation diverses
