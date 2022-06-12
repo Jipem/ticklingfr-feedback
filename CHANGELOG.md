@@ -2,7 +2,7 @@
 
 ## v3.0.143 (2022-06-12)
 - Optimisation diverses
-## v3.0.142 (2022-05-22)
+## v3.0.142 (2022-06-06)
 - Optimisation diverses
 ## v3.0.141 (2022-05-22)
 - Optimisation diverses
