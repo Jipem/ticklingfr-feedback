@@ -1,6 +1,115 @@
 # Release Notes
 
+## v3.0.139 (2022-05-22)
+- Optimisation diverses
+## v3.0.139 (2022-05-22)
+- Optimisation diverses
+- Correction de bugs divers
+## v3.0.138 (2022-05-21)
+- Correction de bugs divers
+## v3.0.137 (2022-05-09)
+- Optimisation diverses
+## v3.0.136 (2022-04-25)
+- Correction de bugs divers
+## v3.0.135 (2022-04-22)
+- Optimisation diverses
+## v3.0.134 (2022-04-21)
+- Optimisation diverses
+## v3.0.133 (2022-04-20)
+- Correction de bugs divers
+## v3.0.132 (2022-03-12)
+- Optimisation diverses
+## v3.0.131 (2022-03-06)
+- Optimisation diverses
+## v3.0.130 (2022-01-30)
+- Optimisation diverses
+- Correction de bugs divers
+## v3.0.129 (2022-01-23)
+- [MODIFY] MP : [Optimisations des discussions](https://www.tickling.fr/user/mp)
+- Correction de bugs divers
+## v3.0.128 (2022-01-15)
+- Correction de bugs divers
+- Optimisation diverses
+## v3.0.127 (2022-01-08)
+- Correction de bugs divers
+- Optimisation diverses
+## v3.0.126 (2021-12-30)
+- Optimisation diverses
+## v3.0.125 (2021-12-23)
+- [MODIFY] MP : [Optimisations des discussions](https://www.tickling.fr/user/mp)
+## v3.0.125 (2021-12-21)
+- Optimisation diverses
+## v3.0.124 (2021-12-18)
+- Optimisation diverses
+## v3.0.123 (2021-12-11)
+- Optimisation diverses
+## v3.0.122 (2021-12-05)
+- [MODIFY] Amis : [Intégration des dates de demandes](https://www.tickling.fr/user/myfriends)*
+- [MODIFY] Amis : [Intégration des badges](https://www.tickling.fr/user/myfriends)
+## v3.0.121 (2021-12-04)
+- [MODIFY] Vidéos : [Suppression de certains partenaires](https://www.tickling.fr/videos)
+- Optimisation diverses
+- Correction de bugs divers
+## v3.0.120 (2021-11-28)
+- Optimisation diverses
+- Correction de bugs divers
+## v3.0.119 (2021-11-20)
+- Optimisation diverses
+## v3.0.118 (2021-10-29)
+- Optimisation diverses
+- Correction de bugs divers
+## v3.0.117 (2021-10-25)
+- Optimisation diverses
+- Correction de bugs divers
+## v3.0.116 (2021-10-17)
+- Optimisation diverses
+- Correction de bugs divers
+## v3.0.115 (2021-10-16)
+- [ADD] Bloqués : [Indications des bloqués sur badge](https://www.tickling.fr/user/myfriends)
+## v3.0.114 (2021-10-15)
+- [ADD] Amis : [Mise en avant des amis sur badge](https://www.tickling.fr/user/myfriends)
+- Optimisation diverses
+## v3.0.113 (2021-10-11)
+- Optimisation diverses
+## v3.0.112 (2021-10-08)
+- Correction de bugs divers
+## v3.0.111 (2021-10-03)
+- Optimisation ergonomie
+- Optimisation ergonomie sur smartphone
+- Correction de bugs divers
+## v3.0.110 (2021-10-02)
+- Optimisation diverses
+## v3.0.109 (2021-09-29)
+- Optimisation ergonomie
+- Optimisation diverses
+- Correction de bugs divers
+## v3.0.109 (2021-09-28)
+- Optimisation ergonomie
+- Optimisation diverses
+## v3.0.108 (2021-09-27)
+- Optimisation diverses
+## v3.0.107 (2021-09-26)
+- [ADD] MP : [Possibilité d'arcde marquer un message](https://www.tickling.fr/user/mp)
+- [ADD] MP : [Sur discussions, possibilité de filtrer par "mes messages"](https://www.tickling.fr/user/mp)
+- Optimisation ergonomie sur smartphone
+- Optimisation diverses
+## v3.0.106 (2021-09-25)
+- [ADD] MP : [Premium - Messages par discussions](https://www.tickling.fr/user/mp/discussions)
+- [ADD] MP : [Premium - Pouvoir choisir MP par discussions par défaut](https://www.tickling.fr/user/mp/discussions)
+## v3.0.105 (2021-09-24)
+- Optimisation diverses
+## v3.0.104 (2021-09-22)
+- Optimisation diverses
+## v3.0.103 (2021-09-20)
+- [ADD] MP : [Possibilité d'archiver plusieurs messages en une fois](https://www.tickling.fr/user/mp)
+- Correction de bugs divers
+## v3.0.102 (2021-09-19)
+- [ADD] MP : [Empêcher les doublons d'envoi ou message vide](https://www.tickling.fr/user/mp)
+- [ADD] MP : [Possibilité d'archiver un message](https://www.tickling.fr/user/mp)
+- Optimisation ergonomie sur smartphone
+- Optimisation diverses
 ## v3.0.101 (2021-09-16)
+- Optimisation ergonomie
 - Optimisation diverses
 - Correction de bugs divers
 ## v3.0.100 (2021-09-13)
