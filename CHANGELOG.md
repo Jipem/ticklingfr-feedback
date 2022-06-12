@@ -89,7 +89,7 @@
 ## v3.0.108 (2021-09-27)
 - Optimisation diverses
 ## v3.0.107 (2021-09-26)
-- [ADD] MP : [Possibilité d'arcde marquer un message](https://www.tickling.fr/user/mp)
+- [ADD] MP : [Possibilité de marquer un message](https://www.tickling.fr/user/mp)
 - [ADD] MP : [Sur discussions, possibilité de filtrer par "mes messages"](https://www.tickling.fr/user/mp)
 - Optimisation ergonomie sur smartphone
 - Optimisation diverses
