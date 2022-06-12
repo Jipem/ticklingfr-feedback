@@ -1,5 +1,36 @@
 # Release Notes
- 
+
+## v3.0.101 (2021-09-16)
+- Optimisation diverses
+- Correction de bugs divers
+## v3.0.100 (2021-09-13)
+- Optimisation diverses
+## v3.0.99 (2021-09-06)
+- Optimisation diverses
+## v3.0.98 (2021-09-05)
+- [ADD] MP : [Premium - Notification immédiate au destinataire si expéditeur est premium](https://www.tickling.fr/user/mp)
+- [ADD] Membres : [Tri sur liste des membres](https://www.tickling.fr/membres)
+- [ADD] Premium : [Dons](https://www.tickling.fr/user/premium/don)
+- [MODIFY] Premium : [Optimisations de l'espace premium](https://www.tickling.fr/user/premium)
+- Optimisation ergonomie sur smartphone
+- Optimisation diverses
+## v3.0.97 (2021-08-30)
+- Optimisation diverses
+## v3.0.96 (2021-08-01)
+- Optimisation diverses
+## v3.0.95 (2021-07-27)
+- Optimisation diverses
+## v3.0.94 (2021-07-24)
+- [MODIFY] Pages d'erreurs intégrées au template
+- Optimisation diverses
+## v3.0.93 (2021-07-20)
+- Correction de bugs divers
+## v3.0.92 (2021-07-18)
+- Correction de bugs divers
+## v3.0.91 (2021-07-17)
+- [ADD] Rencontres : [Premium - Possibilité de cacher ses déplacements de son profil](https://www.tickling.fr/user/settings/premium)
+## v3.0.90 (2021-07-15)
+- Optimisation diverses
 ## v3.0.89 (2021-07-10)
 - [MODIFY] User Menu : [Ajout de liens vers ma rencontres et mes déplacements](https://www.tickling.fr/)
 - [MODIFY] Rencontres : [Lien vers mon annonce](https://www.tickling.fr/user/rencontres/edit)
