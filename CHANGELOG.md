@@ -1,5 +1,70 @@
 # Release Notes
 
+## v3.0.163 (2022-07-24)
+- [MODIFY] Histoires : [Ajout de chapitre sur formulaire de création d'histoire](https://www.tickling.fr/user/histoires/add)
+- Optimisations diverses
+## v3.0.162 (2022-07-23)
+- [ADD] Rencontres : [Carte des rencontres](https://www.tickling.fr/rencontres/map)
+- Correction de bugs divers
+## v3.0.161 (2022-07-22)
+- Optimisations diverses
+## v3.0.160 (2022-07-21)
+- Correction de bugs divers
+## v3.0.159 (2022-07-14)
+- Optimisations diverses
+## v3.0.158 (2022-07-12)
+- Optimisations diverses
+## v3.0.157 (2022-07-11)
+- Correction de bugs divers
+## v3.0.156 (2022-07-06)
+- Correction de bugs divers
+## v3.0.155 (2022-07-04)
+- Optimisations diverses
+## v3.0.154 (2022-07-03)
+- [ADD] Recherche : [Intégration des déplacements](https://www.tickling.fr/search)
+- [MODIFY] Recherche : [Rubriques pour filtrer](https://www.tickling.fr/search)
+- Optimisations diverses
+- Correction de bugs divers
+## v3.0.153 (2022-07-02)
+- Optimisations diverses
+## v3.0.152 (2022-06-30)
+- [OPTIMIZE] Rencontres : [Optimisation ergonomie](https://www.tickling.fr/rencontres)
+- Correction de bugs divers
+## v3.0.151 (2022-06-29)
+- [OPTIMIZE] MP : [Optimisation ergonomie](https://www.tickling.fr/user/mp)
+- [OPTIMIZE] Rencontres : [Optimisation ergonomie](https://www.tickling.fr/rencontres)
+- [OPTIMIZE] Profil : [Optimisation ergonomie](https://www.tickling.fr/profil)
+- Optimisations diverses
+- Correction de bugs divers
+## v3.0.150 (2022-06-28)
+- Optimisations diverses
+- Correction de bugs divers
+## v3.0.149 (2022-06-27)
+- Optimisations diverses
+- Correction de bugs divers
+## v3.0.148 (2022-06-26)
+- [SERVEUR] [Changement de serveur](https://www.tickling.fr/news/162-maintenance-le-week-end-du-25062022)
+- [ADD] MP : [Vue par discussions](https://www.tickling.fr/user/mp/discussions)
+- Optimisations diverses
+- Correction de bugs divers
+## v3.0.147 (2022-06-24)
+- [ADD] Dons : [Paypal](https://www.tickling.fr/)
+- Optimisations diverses
+## v3.0.146 (2022-06-21)
+- Correction de bugs divers
+## v3.0.145 (2022-06-19)
+- [MODIFY] Profil : [Ajouter lien vers avatar dans édition](https://www.tickling.fr/user/profil/edit)
+- [OPTIMIZE] Rencontres : [Optimisation ergonomie](https://www.tickling.fr/rencontres)
+- [OPTIMIZE] Profil : [Optimisation ergonomie](https://www.tickling.fr/profil)
+- Optimisations diverses
+- Correction de bugs divers
+## v3.0.144 (2022-06-18)
+- [MODIFY] Rencontres : [Information édition](https://www.tickling.fr/user/rencontres/edit)
+- [OPTIMIZE] Rencontres : [Optimisation ergonomie](https://www.tickling.fr/rencontres)
+- [OPTIMIZE] Profil : [Optimisation ergonomie et termes des boutons](https://www.tickling.fr/profil)
+- [OPTIMIZE] Préférences : [Optimisation smartphone](https://www.tickling.fr/user/settings/index/settings)
+- Optimisation ergonomie
+- Optimisations diverses
 ## v3.0.143 (2022-06-12)
 - Optimisation diverses
 ## v3.0.142 (2022-06-06)
