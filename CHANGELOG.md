@@ -2,6 +2,8 @@
 
 ## v3.0.163 (2022-07-24)
 - [MODIFY] Histoires : [Ajout de chapitre sur formulaire de création d'histoire](https://www.tickling.fr/user/histoires/add)
+- [MODIFY] Mes amis : [Ajout dans menu](https://www.tickling.fr/user/myfriends)
+- [MODIFY] Mes amis : [Optimisations visuelles](https://www.tickling.fr/user/myfriends)
 - Optimisations diverses
 ## v3.0.162 (2022-07-23)
 - [ADD] Rencontres : [Carte des rencontres](https://www.tickling.fr/rencontres/map)
